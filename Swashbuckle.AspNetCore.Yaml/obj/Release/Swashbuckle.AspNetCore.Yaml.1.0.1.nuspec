@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Swashbuckle.AspNetCore.Yaml</id>
+    <version>1.0.1</version>
+    <authors>Swashbuckle.AspNetCore.Yaml</authors>
+    <owners>Swashbuckle.AspNetCore.Yaml</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="Microsoft.AspNetCore.All" version="2.2.7" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="4.0.1" exclude="Build,Analyzers" />
+        <dependency id="YamlDotNet" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\Desktop\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\bin\Release\netcoreapp2.2\Swashbuckle.AspNetCore.Yaml.runtimeconfig.json" target="lib\netcoreapp2.2\Swashbuckle.AspNetCore.Yaml.runtimeconfig.json" />
+    <file src="C:\Users\Administrator\Desktop\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\bin\Release\netcoreapp2.2\Swashbuckle.AspNetCore.Yaml.dll" target="lib\netcoreapp2.2\Swashbuckle.AspNetCore.Yaml.dll" />
+  </files>
+</package>

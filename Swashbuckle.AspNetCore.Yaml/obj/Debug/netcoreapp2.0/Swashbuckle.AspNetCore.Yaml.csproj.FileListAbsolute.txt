@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\bin\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.deps.json
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\bin\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\bin\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.dll
+C:\Users\Administrator\Downloads\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml-master\Swashbuckle.AspNetCore.Yaml\obj\Debug\netcoreapp2.0\Swashbuckle.AspNetCore.Yaml.pdb

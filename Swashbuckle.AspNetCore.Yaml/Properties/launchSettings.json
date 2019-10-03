@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Swashbuckle.AspNetCore.Yaml": {
+      "commandName": "Project"
+    }
+  }
+}
